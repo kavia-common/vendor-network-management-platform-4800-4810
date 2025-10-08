@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/vendor-network-management-platform-4800-4810/multi_vendor_frontend"
+}
